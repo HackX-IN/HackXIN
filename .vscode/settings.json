@@ -1,0 +1,18 @@
+{
+    "cSpell.words": [
+        "davinci",
+        "openai"
+    ],
+    "launch": {
+
+        "configurations": [],
+        "compounds": []
+    },
+
+
+    "git.enabled": true,
+
+    "git.path": "C:\\path\\to\\git.exe"
+
+
+}
